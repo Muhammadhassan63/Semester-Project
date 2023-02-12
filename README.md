@@ -1,5 +1,5 @@
 # Semester-Project
-We have developed a Library Management System made using the all concepts of Object Oriented Programming in Java which were taught to us during the class and lab. The program is totally console based. The Library Management System includes functions display students, display books, issue library card, issue book, add book, return book, my account etc.
+I have developed a Library Management System, using the all concepts of Object Oriented Programming in Java which were taught to us during the class and lab. The program is totally console based. The Library Management System includes functions display students, display books, issue library card, issue book, add book, return book, my account etc.
 
 The concepts used in this program:
 
